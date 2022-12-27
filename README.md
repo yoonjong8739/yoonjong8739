@@ -2,7 +2,7 @@
 
 # NYJ Github Profile
 
-- 국적 : 대한민국 서율(Rep.Korea, Seoul)
+- 국적 : 대한민국 서울(Rep.Korea, Seoul)
 
 - 학력 : 경기대학교 경영정보전공
 
