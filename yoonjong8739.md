@@ -1,6 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonjong8739)](https://github.com/anuraghazra/github-readme-stats)
 
-# 🌟 NYJ Github Profile  
+# 🌟 NYJ Github Profile
 
 ## 👤 About Me  
 - 🌍 **국적** : 대한민국 서울 (Rep. Korea, Seoul)  
