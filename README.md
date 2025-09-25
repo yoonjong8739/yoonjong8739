@@ -12,21 +12,32 @@
 ---
 
 ## 🚀 Tech Stack  
+
+**📌 Programming & Data Science**
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**📊 Visualization & BI**  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**📐 Analysis & Network**  
+![Statistics](https://img.shields.io/badge/Statistics-4E79A7?style=for-the-badge&logo=apachespark&logoColor=white)
+![SNA](https://img.shields.io/badge/SNA%20(Social%20Network%20Analysis)-E15759?style=for-the-badge&logo=networkx&logoColor=white)
 
 ---
 
 ## 🧩 MBTI  
 **ISFJ – 용감한 수호자**  
 > 소중한 이들을 지키는 데 헌신적이며 성실한 방어자형
-  !["MBTI"](https://ddnews.co.kr/wp-content/uploads/2021/12/ISFJ-%ED%8A%B9%EC%A7%95-1.jpg.webp)
+
+!["MBTI"](https://ddnews.co.kr/wp-content/uploads/2021/12/ISFJ-%ED%8A%B9%EC%A7%95-1.jpg.webp)
 
 ---
 
