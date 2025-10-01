@@ -5,9 +5,9 @@
 ## 👤 About Me  
 - 🌍 **국적** : 대한민국 서울 (Rep. Korea, Seoul)  
 - 🎓 **학력** : 경기대학교 경영정보학 전공  
-- 💻 **언어** : Python, R, Power BI
+- 💻 **언어** : Python, R, Power BI, Google Analytics4
 - 📊 **관심 분야** : 데이터 분석 · 머신러닝 & 딥러닝 · 시각화 등  
-- 🎵 **취미** : 음악 감상, 등산  
+- 🎵 **취미** : 음악 감상, 야구  
 
 ---
 
@@ -22,14 +22,18 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 **📊 Visualization & BI**  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 **📐 Analysis & Network**  
 ![Statistics](https://img.shields.io/badge/Statistics-4E79A7?style=for-the-badge&logo=apachespark&logoColor=white)
 ![SNA](https://img.shields.io/badge/SNA%20(Social%20Network%20Analysis)-E15759?style=for-the-badge&logo=networkx&logoColor=white)
+![Time Series](https://img.shields.io/badge/Time%20Series-59A14F?style=for-the-badge&logo=clockify&logoColor=white)
+![Text Mining](https://img.shields.io/badge/Text%20Mining-9C755F?style=for-the-badge&logo=readthedocs&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-EDC948?style=for-the-badge&logo=googlenlp&logoColor=black)
+![GA4](https://img.shields.io/badge/Google%20Analytics%204-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
 ---
 
