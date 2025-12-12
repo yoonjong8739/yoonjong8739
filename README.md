@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonjong8739)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonjong8739&show_icons=true&theme=radical)
 
 # 🌟 NYJ Github Profile
 
